@@ -1,3 +1,3 @@
 #NAOMI KABIRU
-INTE/MG/1816/09/21
-Numerical-Analysis
+#INTE/MG/1816/09/21
+Numerical Analysis
